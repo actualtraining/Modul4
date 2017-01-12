@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:local="clr-namespace:Modul4;assembly=Modul4"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Modul4.PopupMainPage">
@@ -8,4 +8,4 @@
     <local:ActionSheetPage Title="ActionSheets" Icon="icon.png" />
   </TabbedPage.Children>
 
-</ContentPage>
+</TabbedPage>

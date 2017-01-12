@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace Modul4
 {
-    public partial class PopupMainPage : ContentPage
+    public partial class PopupMainPage : TabbedPage
     {
         public PopupMainPage()
         {

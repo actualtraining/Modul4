@@ -13,7 +13,7 @@ namespace Modul4
         {
             InitializeComponent();
 
-            MainPage = new Modul4.MainPage();
+            MainPage = new Modul4.PopupMainPage();
         }
 
         protected override void OnStart()
